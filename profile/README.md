@@ -8,7 +8,6 @@
 /_____/\___/_/\__/\__,_/_____/\___/_/|_|  
 ```
                                           
-
-A Next-Generation Decentralized Options Contract Protocol
+Next-Generation Decentralized Options Contract Protocol
 
 
